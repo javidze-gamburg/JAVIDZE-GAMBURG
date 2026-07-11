@@ -131,10 +131,9 @@ body {
     font-size: 4rem;
     line-height: 1.1;
     color: #FFFFFF;
-    text-shadow: 3px 3px 0px #CD5C5C;
     margin-bottom: 10px;
 }
-.logo-title .highlight { color: #FFC107; text-shadow: 3px 3px 0px #8BC34A; }
+.logo-title .highlight { color: #FFC107;  }
 
 .tagline { font-size: 1.25rem; color: #E2C2B1; margin-bottom: 35px; font-style: italic; }
 
