@@ -365,8 +365,8 @@ body {
     }
 
     .social-btn {
-        width: 55.6% !important;       /* Tugma chetlarga to'liq yopishadi */
-        max-width: 111% ;  /* Cheklovni olib tashlaymiz */
+        width: 53% !important;       /* Tugma chetlarga to'liq yopishadi */
+        max-width: 80% ;  /* Cheklovni olib tashlaymiz */
         justify-content: center !important;
         font-size: 0.9rem !important;
         box-sizing: border-box !important;
